@@ -4,3 +4,6 @@
 
 #### Currently evolving into a fullstack dev with the addition TS and Vue
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DubG1)](https://github.com/DubG1/github-readme-stats)
+
+
