@@ -1,4 +1,4 @@
-## Welcome
+## Welcome to my Profile!
 
-CS student suffering from Imposter Syndrome
-Native C and Java - currently evolving into a fullstack dev with TS and Vue
+### CS student suffering from Imposter Syndrome
+### Native C and Java - currently evolving into a fullstack dev with TS and Vue
