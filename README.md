@@ -1,5 +1,5 @@
 ## Welcome to my Profile!
 
-#### I like to explore the whole realm of coding and software engineering. Started off with C in 2021, got into some low level stuff, later on built some group projects in Java and machine learning in Python.
+#### Started coding in 2021 with C
 
-#### Currently evolving into a fullstack dev with the addition of TS and Vue
+### later on built some projects in Java, machine learning in Python and created a desktop app with electron and ts
