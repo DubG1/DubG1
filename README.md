@@ -2,4 +2,4 @@
 
 #### Started coding in 2021 with C
 
-#### later on built some projects in Java, machine learning in Python and created a desktop app with electron and ts
+#### then worked on some projects in Java, machine learning in Python and a desktop app with electron, ts and vue
