@@ -1,5 +1,5 @@
 ## Welcome to my Profile!
 
-#### Started coding in 2021 with C
+#### C Native
 
-#### then worked on some projects in Java, machine learning in Python and a desktop app with electron, ts and vue
+#### Experience in Java, Machine learning in Python and Webdev with TS and Vue
